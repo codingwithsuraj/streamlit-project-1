@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
 
-@author: Suraj Singh Rajput
-@email: surajrajput7306@gmail.com
-
-"""
 
 # -*- coding: utf-8 -*-
 """
